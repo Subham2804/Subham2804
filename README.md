@@ -49,7 +49,7 @@
 ### Languages
 
 * Rust 🦀 (Primary)
-* Go
+* Typescript
 * Python
 
 ### Systems & Backend
@@ -63,6 +63,7 @@
 * CosmWasm
 * Cosmos SDK
 * Smart Contracts
+* Solana
 
 ### Infra & Tools
 
